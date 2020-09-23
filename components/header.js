@@ -9,18 +9,18 @@ const Header = () => (
         </Link>
       </li>
       <li>
-        <Link href="/about">
-          <a>About</a>
+        <Link href="/passo-fundo">
+          <a>Passo Fundo</a>
         </Link>
       </li>
       <li>
-        <Link href="/post/[id]" as="/post/first">
-          <a>First Post</a>
+        <Link href="/tapejara">
+          <a>Tapejara</a>
         </Link>
       </li>
       <li>
-        <Link href="/post/[id]" as="/post/second">
-          <a>Second Post</a>
+        <Link href="/lagoa-vermelha">
+          <a>Lagoa Vermelha</a>
         </Link>
       </li>
     </ul>
